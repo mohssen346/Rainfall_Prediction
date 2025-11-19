@@ -1,11 +1,7 @@
 # Rainfall Intensity Clustering & Classification  
 **A Complete Machine Learning Pipeline for Daily Rainfall Prediction**
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue)  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-Latest-orange)  
-![Pandas](https://img.shields.io/badge/Pandas-Latest-brightgreen)  
-![License](https://img.shields.io/badge/License-MIT-yellow)  
-![Status](https://img.shields.io/badge/Project%20Status-Completed-success)
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue)  ![scikit-learn](https://img.shields.io/badge/scikit--learn-Latest-orange)  ![Pandas](https://img.shields.io/badge/Pandas-Latest-brightgreen)  ![License](https://img.shields.io/badge/License-MIT-yellow)  ![Status](https://img.shields.io/badge/Project%20Status-Completed-success)
 
 ## 📖 Project Overview
 

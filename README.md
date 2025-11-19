@@ -134,9 +134,6 @@ pip install -r requirements.txt
 Contributions, issues, and feature requests are welcome!  
 Feel free to open a pull request or an issue.
 
-## 📝 License
-
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE](LICENSE) file for details.
 
 ## ⭐ Show Your Support
 
